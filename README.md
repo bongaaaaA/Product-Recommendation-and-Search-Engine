@@ -14,7 +14,7 @@ The system supports:
 - Semantic product search
 - Similarity-based product recommendation
 - NLP-powered search using BERT embeddings
-
+## 📌 Dataset : https://www.kaggle.com/datasets/sacrum/e-commerce-products-search-engine-recommendation
 ---
 ## 🚀 Features
 
