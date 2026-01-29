@@ -16,6 +16,15 @@ The system supports:
 - NLP-powered search using BERT embeddings
 ## 📌 Dataset : https://www.kaggle.com/datasets/sacrum/e-commerce-products-search-engine-recommendation
 ---
+
+---
+video rinnig 
+
+
+https://github.com/user-attachments/assets/4c412f6b-b200-430b-84fa-d4c70cea9f83
+
+
+---
 ## 🚀 Features
 
 - 🔍 Semantic Search (Meaning-based search, not keywords)
